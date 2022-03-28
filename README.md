@@ -1,6 +1,6 @@
 # ML-Recursos-Humanos
 
-Link al trabajo y detalle: https://github.com/bernaberb/ML-Recursos-Humanos/blob/main/Data_Recursos_Humanos_ML.ipynb
+Link al proyecto y detalle: https://github.com/bernaberb/ML-Recursos-Humanos/blob/main/Data_Recursos_Humanos.ipynb
 
 
 Contratar y retener empleados son tareas complejas que requieren capital, tiempo y habilidades. 
